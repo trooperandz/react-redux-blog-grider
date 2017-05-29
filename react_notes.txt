@@ -1,0 +1,8 @@
+*React notes
+
+  -React Router:
+    Flow:
+      User changes URL,
+      History is recorded in history library & figures out what changed
+      Router receives new route and decides new components to show based on the route
+      React does its rendering of the components

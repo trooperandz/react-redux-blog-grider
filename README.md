@@ -12,3 +12,5 @@ To get started with this repo:
 > npm install
 > npm start
 ```
+
+### Note: the blog API is located at: `http://reduxblog.herokuapp.com/`
